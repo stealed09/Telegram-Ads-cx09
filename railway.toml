@@ -1,2 +1,0 @@
-[deploy.variables]
-RAILPACK_PACKAGES = "rust"
