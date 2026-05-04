@@ -1,0 +1,23 @@
+# ╔══════════════════════════════════════════════════════════════╗
+# ║   TeleAutoBot — Python Dependencies                          ║
+# ║   Install: pip install -r requirements.txt                   ║
+# ╚══════════════════════════════════════════════════════════════╝
+
+# ── Core bot framework (Telegram Bot API)
+aiogram==3.13.1
+
+# ── Telegram user-account automation
+telethon==1.36.0
+
+# ── Async HTTP (used internally by aiogram & telethon)
+aiohttp==3.10.10
+aiofiles==23.2.1
+
+# ── Cryptography (required by Telethon)
+cryptg==0.4.0
+
+# ── Environment variables support
+python-dotenv==1.0.1
+
+# ── Utilities
+pytz==2024.2
